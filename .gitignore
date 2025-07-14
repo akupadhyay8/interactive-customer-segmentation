@@ -9,12 +9,8 @@ __pycache__/
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
 
-# Ignore joblib model
-*.joblib
-
 # Ignore data files
 Dataset/
-Mall Customer Segmentation.ipynb
 
 # Ignore VSCode settings (if applicable)
 .vscode/
