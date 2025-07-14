@@ -1,0 +1,20 @@
+# Ignore Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+.venv/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore joblib model
+*.joblib
+
+# Ignore data files
+Dataset/
+Mall Customer Segmentation.ipynb
+
+# Ignore VSCode settings (if applicable)
+.vscode/
