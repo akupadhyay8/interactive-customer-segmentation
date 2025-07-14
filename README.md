@@ -6,7 +6,7 @@ This project is an **interactive Streamlit dashboard** that allows users to expl
 
 ## 🚀 Demo
 
-👉 **Live Streamlit App:** [Click here to explore](https://interactive-customer-segmentation.streamlit.app/) 
+👉 **Live Streamlit App:** [Click here to explore](https://interactive-customer-segmentation-yqbhn9gajleouy95smecyz.streamlit.app/) 
 
 ---
 
