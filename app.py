@@ -20,7 +20,7 @@ tab = st.sidebar.selectbox("Choose Activity", ["Segmentation Explorer", "Cluster
 
 # -- Default file paths --
 DEFAULT_DATA_PATH = r"E:\Python\Mall Customer Segmentation\Dataset\Mall_Customers.csv"
-DEFAULT_MODEL_PATH = r"E:\Python\Mall Customer Segmentation\kmeans_model.joblib"
+DEFAULT_MODEL_PATH = "kmeans_model.joblib"
 
 # -- Utility functions --
 @st.cache_resource
